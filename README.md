@@ -1,1 +1,1 @@
-# LANDING-PAGE
+http://localhost/Star/star.html
